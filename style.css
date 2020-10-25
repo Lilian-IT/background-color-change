@@ -1,0 +1,16 @@
+.body {
+  background: cornsilk;
+  margin: 0;
+  padding: 0;
+}
+.Color {
+  display: flex;
+
+  justify-content: center;
+  height: 55px;
+  margin-top: 350px;
+}
+.button {
+  display: flex;
+  width: 100%;
+}
